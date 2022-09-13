@@ -19,7 +19,7 @@ var ties =  0;
 // define var for loop
 var keepPlaying = true;
 
-while (keep playing) {
+while (keepPlaying) {
 }
 // prompt humanChoice (use prompt as a function)
 var humanChoice = prompt("Choose r, p, s");
